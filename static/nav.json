@@ -8,6 +8,51 @@
 		"desc": "域名托管网站",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
+		"name": "IT之家",
+		"href": "https://www.ithome.com/",
+		"desc": "全球最大的中文IT门户网站",
+		"logo": "static/icons/ithome.com.ico"
+	}, {
+		"name": "腾讯视频",
+		"href": "https://v.qq.com/",
+		"desc": "腾讯旗下在线视频媒体平台",
+		"logo": "static/icons/v.qq.com.ico"
+	}, {
+		"name": "西瓜视频",
+		"href": "https://www.xigua.com/",
+		"desc": "字节跳动旗下在线视频媒体平台",
+		"logo": "static/icons/xigua.com.ico"
+	}, {
+		"name": "抖音",
+		"href": "https://www.douyin.com/",
+		"desc": "字节跳动旗下的短视频分享平台",
+		"logo": "static/icons/douyin.com.ico"
+	}, {
+		"name": "汽车之家",
+		"href": "https://www.autohome.com.cn/",
+		"desc": "中国领先的汽车主题垂直网站",
+		"logo": "static/icons/autohome.com.cn.ico"
+	}, {
+		"name": "百度贴吧",
+		"href": "https://tieba.baidu.com/",
+		"desc": "百度旗下的全球最大中文社区",
+		"logo": "static/icons/tieba.baidu.com.ico"
+	}, {
+		"name": "Facebook",
+		"href": "https://www.facebook.com/",
+		"desc": "全球最大的社交网络平台",
+		"logo": "static/icons/facebook.com.ico"
+	}, {
+		"name": "推特",
+		"href": "https://twitter.com/",
+		"desc": "全球最大的即时信息分享平台",
+		"logo": "static/icons/twitter.com.ico"
+	}, {
+		"name": "虎牙直播",
+		"href": "https://www.huya.com/",
+		"desc": "中国领先的游戏直播平台",
+		"logo": "static/icons/huya.com.ico"
+	}, {
 		"name": "Namesilo",
 		"href": "https://www.namesilo.com/",
 		"desc": "域名托管网站",
