@@ -21,7 +21,7 @@
 		"name": "YouTube",
 		"href": "https://www.youtube.com/",
 		"desc": "全球最大的视频分享平台",
-		"logo": "static/icons/ytb.png"
+		"logo": "static/icons/youtube.png"
 	},{
         "name": "Reddit",
         "href": "https://www.reddit.com/",
@@ -58,7 +58,7 @@
       "name": "Bing AI",
       "href": "https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx",
       "desc": "微软Bing搜索引擎的人工智能技术",
-      "logo": "static/icons/bing.com.ico"
+      "logo": "static/icons/cpo.png"
     },
       {
       "name": "Claude",
@@ -141,13 +141,13 @@
       "name": "汽车之家",
       "href": "https://www.autohome.com.cn/",
       "desc": "中国领先的汽车资讯网站",
-      "logo": "static/icons/qc.jfif"
+      "logo": "static/icons/qccc.png"
     },
     {
       "name": "今日头条",
       "href": "https://www.toutiao.com/",
       "desc": "中国领先的新闻资讯平台",
-      "logo": "static/icons/toutiao.com.ico"
+      "logo": "static/icons/toutiao.com.jpg"
     },
     {
       "name": "下歌吧",
