@@ -44,23 +44,29 @@
         "logo": "static/icons/openai.com.ico"
       },
       {
-        "name": "IBM Watson",
-        "href": "https://www.ibm.com/watson",
-        "desc": "IBM开发的智能解决方案",
-        "logo": "static/icons/ibm.com.ico"
-      },
+      "name": "谷歌Gemini AI助手",
+      "href": "https://gemini.google.com/",
+      "desc": "谷歌Gemini AI助手是谷歌的人工智能助手",
+      "logo": "static/icons/google.com.ico"
+    },
+     {
+      "name": "Bing AI",
+      "href": "https://www.bing.com/",
+      "desc": "微软Bing搜索引擎的人工智能技术",
+      "logo": "static/icons/bing.com.ico"
+    },
       {
-        "name": "Amazon AI",
-        "href": "https://aws.amazon.com/tw/amazon-ai/",
-        "desc": "亚马逊的人工智能服务",
-        "logo": "static/icons/amazon.com.ico"
-      },
+      "name": "Claude",
+      "href": "https://claude.ai/",
+      "desc": "Claude是一个人工智能写作助手",
+      "logo": "static/icons/claude.ai.ico"
+    },
       {
-        "name": "Microsoft AI",
-        "href": "https://www.microsoft.com/en-us/ai",
-        "desc": "微软的人工智能平台",
-        "logo": "static/icons/microsoft.com.ico"
-       }]
+      "name": "Bing AI",
+      "href": "https://www.bing.com/",
+      "desc": "微软Bing搜索引擎的人工智能技术",
+      "logo": "static/icons/bing.com.ico"
+    }]
     },{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
