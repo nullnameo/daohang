@@ -18,11 +18,11 @@
 		"desc": "全球最大的即时信息分享平台",
 		"logo": "static/icons/twitter.com.ico"
 	},{
-        "name": "Stack Overflow",
-        "href": "https://stackoverflow.com/",
-        "desc": "程序员问答社区",
-        "logo": "static/icons/stackoverflow.com.ico"
-      },{
+		"name": "YouTube",
+		"href": "https://www.youtube.com/",
+		"desc": "全球最大的视频分享平台",
+		"logo": "static/icons/youtube.png"
+	},{
         "name": "Reddit",
         "href": "https://www.reddit.com/",
         "desc": "全球知名的社交新闻网站",
@@ -38,8 +38,8 @@
     "classify": "人工智能",
     "icon": "ti-brain",
     "sites": [{
-        "name": "OpenAI",
-        "href": "https://openai.com/",
+        "name": "chatGPT",
+        "href": "https://chat.openai.com/",
         "desc": "领先的人工智能研究组织",
         "logo": "static/icons/openai.com.ico"
       },
