@@ -51,7 +51,7 @@
     },
      {
       "name": "Bing AI",
-      "href": "https://www.bing.com/",
+      "href": "https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx",
       "desc": "微软Bing搜索引擎的人工智能技术",
       "logo": "static/icons/bing.com.ico"
     },
@@ -60,13 +60,7 @@
       "href": "https://claude.ai/",
       "desc": "Claude是一个人工智能写作助手",
       "logo": "static/icons/claude.ai.ico"
-    },
-      {
-      "name": "Bing AI",
-      "href": "https://www.bing.com/",
-      "desc": "微软Bing搜索引擎的人工智能技术",
-      "logo": "static/icons/bing.com.ico"
-    }]
+    },]
     },{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
