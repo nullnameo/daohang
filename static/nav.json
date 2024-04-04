@@ -1,4 +1,59 @@
 [{
+"_id": "waiwang",
+	"classify": "国外网站",
+	"icon": "ti-world",
+	"sites": [{
+		"name": "Google",
+		"href": "https://www.google.com",
+		"desc": "全球最大的搜索引擎",
+		"logo": "static/icons/google.com.ico"
+	}, {
+		"name": "YouTube",
+		"href": "https://www.youtube.com",
+		"desc": "全球最大的视频分享网站", 
+		"logo": "static/icons/youtube.com.ico"
+	}{
+                "name": "Facebook",
+                "href": "https://www.facebook.com",
+                "desc": "全球最大的社交网络平台",
+                "logo": "static/icons/facebook.com.ico"
+       }, {
+                "name": "Twitter",
+                "href": "https://twitter.com",
+                "desc": "全球最大的即时分享平台",
+                "logo": "static/icons/twitter.com.ico"
+        }]
+}, {
+  "_id": "ai",
+  "classify": "AI助手", 
+  "icon": "ti-robot",
+  "sites": [{
+    "name": "ChatGPT",
+    "href": "https://chat.openai.com",
+    "desc": "OpenAI推出的对话式AI助手",
+    "logo": "static/icons/openai.com.png"
+  }, {
+    "name": "Claude",
+    "href": "https://www.anthropic.com",
+    "desc": "Anthropic公司开发的AI助手",
+    "logo": "static/icons/anthropic.com.png"
+  }, {
+    "name": "Google Bard",
+    "href": "https://bard.google.com",
+    "desc": "Google推出的对话式AI助手",
+    "logo": "static/icons/google.com.ico"
+  }, {
+    "name": "Gemini", 
+    "href": "https://www.anthropic.com/product",
+    "desc": "Anthropic公司开发的更强大AI模型",
+    "logo": "static/icons/anthropic.com.png"
+  }, {
+    "name": "百度AI",
+    "href": "https://ai.baidu.com",
+    "desc": "百度公司的AI产品和服务平台",
+    "logo": "static/icons/baidu.com.ico"
+  }]
+},{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
