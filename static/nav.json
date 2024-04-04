@@ -21,17 +21,17 @@
 		"name": "YouTube",
 		"href": "https://www.youtube.com/",
 		"desc": "全球最大的视频分享平台",
-		"logo": "static/icons/youtube.png"
+		"logo": "static/icons/55555.png"
 	},{
         "name": "Reddit",
         "href": "https://www.reddit.com/",
         "desc": "全球知名的社交新闻网站",
-        "logo": "static/icons/reddit.com.ico"
+        "logo": "static/icons/Reddit.png"
       },{
         "name": "Medium",
         "href": "https://medium.com/",
         "desc": "优质写作内容聚合平台",
-        "logo": "static/icons/medium.com.ico"
+        "logo": "static/icons/222.png"
       },{
 		"name": "cloudflare",
 		"href": "https://dash.cloudflare.com/",
