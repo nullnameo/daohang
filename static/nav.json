@@ -1,4 +1,67 @@
 [{
+    "_id": "guowai",
+    "classify": "国外网站",
+    "icon": "ti-world",
+    "sites": [{
+        "name": "GitHub",
+        "href": "https://github.com/",
+        "desc": "全球最大的开源社区和软件开发平台",
+        "logo": "static/icons/github.com.ico"
+      },{
+		"name": "Facebook",
+		"href": "https://www.facebook.com/",
+		"desc": "全球最大的社交网络平台",
+		"logo": "static/icons/facebook.com.ico"
+	},{
+		"name": "推特",
+		"href": "https://twitter.com/",
+		"desc": "全球最大的即时信息分享平台",
+		"logo": "static/icons/twitter.com.ico"
+	},{
+        "name": "Stack Overflow",
+        "href": "https://stackoverflow.com/",
+        "desc": "程序员问答社区",
+        "logo": "static/icons/stackoverflow.com.ico"
+      },{
+        "name": "Reddit",
+        "href": "https://www.reddit.com/",
+        "desc": "全球知名的社交新闻网站",
+        "logo": "static/icons/reddit.com.ico"
+      },{
+        "name": "Medium",
+        "href": "https://medium.com/",
+        "desc": "优质写作内容聚合平台",
+        "logo": "static/icons/medium.com.ico"
+      }]
+  },{
+    "_id": "AI",
+    "classify": "人工智能",
+    "icon": "ti-brain",
+    "sites": [{
+        "name": "OpenAI",
+        "href": "https://openai.com/",
+        "desc": "领先的人工智能研究组织",
+        "logo": "static/icons/openai.com.ico"
+      },
+      {
+        "name": "IBM Watson",
+        "href": "https://www.ibm.com/watson",
+        "desc": "IBM开发的智能解决方案",
+        "logo": "static/icons/ibm.com.ico"
+      },
+      {
+        "name": "Amazon AI",
+        "href": "https://aws.amazon.com/tw/amazon-ai/",
+        "desc": "亚马逊的人工智能服务",
+        "logo": "static/icons/amazon.com.ico"
+      },
+      {
+        "name": "Microsoft AI",
+        "href": "https://www.microsoft.com/en-us/ai",
+        "desc": "微软的人工智能平台",
+        "logo": "static/icons/microsoft.com.ico"
+       }]
+    },{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
@@ -37,16 +100,6 @@
 		"href": "https://tieba.baidu.com/",
 		"desc": "百度旗下的全球最大中文社区",
 		"logo": "static/icons/tieba.baidu.com.ico"
-	}, {
-		"name": "Facebook",
-		"href": "https://www.facebook.com/",
-		"desc": "全球最大的社交网络平台",
-		"logo": "static/icons/facebook.com.ico"
-	}, {
-		"name": "推特",
-		"href": "https://twitter.com/",
-		"desc": "全球最大的即时信息分享平台",
-		"logo": "static/icons/twitter.com.ico"
 	}, {
 		"name": "虎牙直播",
 		"href": "https://www.huya.com/",
