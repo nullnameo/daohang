@@ -162,6 +162,53 @@
       "logo": "static/icons/youku.png"
     }]
 },{
+  "_id": "dianshi_zhibo",
+  "classify": "电视直播",
+  "icon": "ti-video-camera",
+  "sites": [
+    {
+      "name": "CCTV",
+      "href": "http://tv.cctv.com/live/",
+      "desc": "中国中央电视台",
+      "logo": "static/icons/cctv.jpeg"
+    },
+    {
+      "name": "南宁电视台",
+      "href": "https://www.nntv.cn/live/nntv_xw/",
+      "desc": "南宁市地方电视台",
+      "logo": "static/icons/南宁.jpeg"
+    },
+    {
+      "name": "广西电视台",
+      "href": "https://tv.gxtv.cn/",
+      "desc": "广西自治区电视台",
+      "logo": "static/icons/gx.jpg"
+    },
+    {
+      "name": "广东电视台",
+      "href": "https://www.gdtv.cn/tvChannelDetail/43",
+      "desc": "广东省地方电视台",
+      "logo": "static/icons/GD.png"
+    },
+    {
+      "name": "江苏电视台",
+      "href": "https://live.jstv.com/",
+      "desc": "江苏省地方电视台",
+      "logo": "static/icons/JS.jpg"
+    },
+    {
+      "name": "湖南卫视",
+      "href": "https://live.mgtv.com/?channelId=316",
+      "desc": "湖南省地方卫视台",
+      "logo": "static/icons/hunan.jpg"
+    },
+    {
+      "name": "安徽电视台",
+      "href": "https://www.ahtv.cn/folder9000/folder20193",
+      "desc": "安徽省地方电视台",
+      "logo": "static/icons/anhui.jpg"
+    }]
+},{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
