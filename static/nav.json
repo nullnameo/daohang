@@ -11,12 +11,12 @@
 		"name": "Facebook",
 		"href": "https://www.facebook.com/",
 		"desc": "全球最大的社交网络平台",
-		"logo": "static/icons/facebook.com.ico"
+		"logo": "static/icons/fb.png"
 	},{
 		"name": "推特",
 		"href": "https://twitter.com/",
 		"desc": "全球最大的即时信息分享平台",
-		"logo": "static/icons/twitter.com.ico"
+		"logo": "static/icons/x.png"
 	},{
 		"name": "YouTube",
 		"href": "https://www.youtube.com/",
@@ -70,13 +70,13 @@
       "name": "it之家",
       "href": "https://www.ithome.com/",
       "desc": "IT科技资讯网站",
-      "logo": "static/icons/ithome.com.ico"
+      "logo": "static/icons/ithome.png"
     },
     {
       "name": "百度贴吧",
       "href": "https://tieba.baidu.com/",
       "desc": "百度旗下的网络社区",
-      "logo": "static/icons/tieba.baidu.com.ico"
+      "logo": "static/icons/tieba.baidu.com.jpg"
     },
     {
       "name": "抖音",
@@ -94,7 +94,7 @@
       "name": "哔哩哔哩",
       "href": "https://www.bilibili.com/",
       "desc": "中国领先的动漫视频网站",
-      "logo": "static/icons/bilibili.com.ico"
+      "logo": "static/icons/live.bilibili.com.jpg"
     },
     {
       "name": "西瓜视频",
@@ -106,19 +106,19 @@
       "name": "爱奇艺",
       "href": "https://www.iqiyi.com/",
       "desc": "中国领先的在线视频媒体平台",
-      "logo": "static/icons/iqiyi.com.ico"
+      "logo": "static/icons/aiqiyi.png"
     },
     {
       "name": "腾讯视频",
       "href": "https://v.qq.com/",
       "desc": "腾讯旗下的在线视频平台",
-      "logo": "static/icons/v.qq.com.ico"
+      "logo": "static/icons/tenxun.png"
     },
     {
       "name": "虎牙直播",
       "href": "https://www.huya.com/",
       "desc": "中国领先的游戏直播平台",
-      "logo": "static/icons/huya.com.ico"
+      "logo": "static/icons/huya.png"
     },
     {
       "name": "斗鱼直播",
@@ -130,7 +130,7 @@
       "name": "什么值得买",
       "href": "https://www.smzdm.com/",
       "desc": "中国领先的消费导购网站",
-      "logo": "static/icons/smzdm.com.ico"
+      "logo": "static/icons/mai.png"
     },
     {
       "name": "汽车之家",
