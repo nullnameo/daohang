@@ -33,11 +33,40 @@
         "desc": "优质写作内容聚合平台",
         "logo": "static/icons/222.png"
       },{
-		"name": "cloudflare",
+		"name": "Cloudflare",
 		"href": "https://dash.cloudflare.com/",
 		"desc": "域名托管网站",
 		"logo": "static/icons/cf.png"
-	}]
+	},{
+      "name": "TikTok",
+      "href": "https://www.tiktok.com/",
+      "desc": "全球热门的短视频分享平台",
+      "logo": "static/icons/tk.png"
+    },
+    {
+      "name": "Google",
+      "href": "https://www.google.com/",
+      "desc": "全球最大的搜索引擎和互联网技术公司",
+      "logo": "static/icons/guge.png"
+    },
+    {
+      "name": "Instagram",
+      "href": "https://www.instagram.com/",
+      "desc": "全球最大的图片分享社交平台",
+      "logo": "static/icons/ig.png"
+    },
+    {
+      "name": "Gmail",
+      "href": "https://mail.google.com/",
+      "desc": "谷歌邮箱",
+      "logo": "static/icons/gmai.png"
+    },
+    {
+      "name": "维基百科",
+      "href": "https://www.wikipedia.org/",
+      "desc": "最大的自由内容百科全书",
+      "logo": "static/icons/weik.png"
+    }]
   },{
     "_id": "AI",
     "classify": "人工智能",
