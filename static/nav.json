@@ -307,6 +307,40 @@
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
 	"sites": [{
+      "name": "百度云盘",
+      "href": "https://pan.baidu.com/",
+      "desc": "百度旗下的云存储服务",
+      "logo": "static/icons/baiduyun.jpg"
+    },{
+      "name": "阿里云盘",
+      "href": "https://www.alipan.com/",
+      "desc": "阿里云存储服务",
+      "logo": "static/icons/ali.png"
+    },
+    {
+      "name": "UC网盘",
+      "href": "https://drive.uc.cn/",
+      "desc": "UC浏览器旗下的云存储服务",
+      "logo": "static/icons/uc.jpeg"
+    },
+    {
+      "name": "123网盘",
+      "href": "https://www.123pan.com/",
+      "desc": "123网盘",
+      "logo": "static/icons/123.png"
+    },
+    {
+      "name": "夸克网盘",
+      "href": "https://pan.quark.cn/",
+      "desc": "夸克云存储服务",
+      "logo": "static/icons/kuake.jpg"
+    },
+    {
+      "name": "蓝奏云网",
+      "href": "https://www.lanzou.com/",
+      "desc": "蓝奏云存储服务",
+      "logo": "static/icons/lanzouyun.png"
+    },{
 		"name": "文叔叔",
 		"href": "https://www.wenshushu.cn/",
 		"desc": "大文件即时传输，新晋优秀网盘",
