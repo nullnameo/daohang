@@ -82,13 +82,13 @@
       "name": "抖音",
       "href": "https://www.douyin.com/",
       "desc": "中国领先的短视频平台",
-      "logo": "static/icons/douyin.com.ico"
+      "logo": "static/icons/tk.png"
     },
     {
       "name": "小红书",
       "href": "https://www.xiaohongshu.com/",
       "desc": "中国领先的社交电商平台",
-      "logo": "static/icons/xiaohongshu.com.ico"
+      "logo": "static/icons/xiaohongshu.png"
     },
     {
       "name": "哔哩哔哩",
@@ -100,7 +100,7 @@
       "name": "西瓜视频",
       "href": "https://www.ixigua.com/",
       "desc": "中国领先的短视频平台",
-      "logo": "static/icons/ixigua.com.ico"
+      "logo": "static/icons/xg.png"
     },
     {
       "name": "爱奇艺",
