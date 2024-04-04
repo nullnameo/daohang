@@ -60,8 +60,103 @@
       "href": "https://claude.ai/",
       "desc": "Claude是一个人工智能写作助手",
       "logo": "static/icons/claude.ai.ico"
-    },]
+    }]
     },{
+  "_id": "guonei",
+  "classify": "国内网站",
+  "icon": "ti-home",
+  "sites": [
+    {
+      "name": "it之家",
+      "href": "https://www.ithome.com/",
+      "desc": "IT科技资讯网站",
+      "logo": "static/icons/ithome.com.ico"
+    },
+    {
+      "name": "百度贴吧",
+      "href": "https://tieba.baidu.com/",
+      "desc": "百度旗下的网络社区",
+      "logo": "static/icons/tieba.baidu.com.ico"
+    },
+    {
+      "name": "抖音",
+      "href": "https://www.douyin.com/",
+      "desc": "中国领先的短视频平台",
+      "logo": "static/icons/douyin.com.ico"
+    },
+    {
+      "name": "小红书",
+      "href": "https://www.xiaohongshu.com/",
+      "desc": "中国领先的社交电商平台",
+      "logo": "static/icons/xiaohongshu.com.ico"
+    },
+    {
+      "name": "哔哩哔哩",
+      "href": "https://www.bilibili.com/",
+      "desc": "中国领先的动漫视频网站",
+      "logo": "static/icons/bilibili.com.ico"
+    },
+    {
+      "name": "西瓜视频",
+      "href": "https://www.ixigua.com/",
+      "desc": "中国领先的短视频平台",
+      "logo": "static/icons/ixigua.com.ico"
+    },
+    {
+      "name": "爱奇艺",
+      "href": "https://www.iqiyi.com/",
+      "desc": "中国领先的在线视频媒体平台",
+      "logo": "static/icons/iqiyi.com.ico"
+    },
+    {
+      "name": "腾讯视频",
+      "href": "https://v.qq.com/",
+      "desc": "腾讯旗下的在线视频平台",
+      "logo": "static/icons/v.qq.com.ico"
+    },
+    {
+      "name": "虎牙直播",
+      "href": "https://www.huya.com/",
+      "desc": "中国领先的游戏直播平台",
+      "logo": "static/icons/huya.com.ico"
+    },
+    {
+      "name": "斗鱼直播",
+      "href": "https://www.douyu.com/",
+      "desc": "中国领先的游戏直播平台",
+      "logo": "static/icons/douyu.com.ico"
+    },
+    {
+      "name": "什么值得买",
+      "href": "https://www.smzdm.com/",
+      "desc": "中国领先的消费导购网站",
+      "logo": "static/icons/smzdm.com.ico"
+    },
+    {
+      "name": "汽车之家",
+      "href": "https://www.autohome.com.cn/",
+      "desc": "中国领先的汽车资讯网站",
+      "logo": "static/icons/autohome.com.cn.ico"
+    },
+    {
+      "name": "今日头条",
+      "href": "https://www.toutiao.com/",
+      "desc": "中国领先的新闻资讯平台",
+      "logo": "static/icons/toutiao.com.ico"
+    },
+    {
+      "name": "下歌吧",
+      "href": "https://www.xiage8.com/",
+      "desc": "中国领先的音乐下载网站",
+      "logo": "static/icons/xiage8.com.ico"
+    },
+    {
+      "name": "优酷视频",
+      "href": "https://www.youku.com/",
+      "desc": "中国领先的视频媒体平台",
+      "logo": "static/icons/youku.com.ico"
+    }]
+},{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
