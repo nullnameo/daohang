@@ -6,7 +6,7 @@
         "name": "GitHub",
         "href": "https://github.com/",
         "desc": "全球最大的开源社区和软件开发平台",
-        "logo": "static/icons/github.com.ico"
+        "logo": "static/icons/gh.png"
       },{
 		"name": "Facebook",
 		"href": "https://www.facebook.com/",
@@ -21,7 +21,7 @@
 		"name": "YouTube",
 		"href": "https://www.youtube.com/",
 		"desc": "全球最大的视频分享平台",
-		"logo": "static/icons/youtube.png"
+		"logo": "static/icons/ytb.png"
 	},{
         "name": "Reddit",
         "href": "https://www.reddit.com/",
@@ -32,7 +32,12 @@
         "href": "https://medium.com/",
         "desc": "优质写作内容聚合平台",
         "logo": "static/icons/medium.com.ico"
-      }]
+      },{
+		"name": "cloudflare",
+		"href": "https://dash.cloudflare.com/",
+		"desc": "域名托管网站",
+		"logo": "static/icons/cf.png"
+	}]
   },{
     "_id": "AI",
     "classify": "人工智能",
@@ -41,13 +46,13 @@
         "name": "chatGPT",
         "href": "https://chat.openai.com/",
         "desc": "领先的人工智能研究组织",
-        "logo": "static/icons/openai.com.ico"
+        "logo": "static/icons/chatgpt.png"
       },
       {
       "name": "谷歌Gemini AI助手",
       "href": "https://gemini.google.com/",
       "desc": "谷歌Gemini AI助手是谷歌的人工智能助手",
-      "logo": "static/icons/google.com.ico"
+      "logo": "static/icons/gemini.png"
     },
      {
       "name": "Bing AI",
@@ -59,7 +64,7 @@
       "name": "Claude",
       "href": "https://claude.ai/",
       "desc": "Claude是一个人工智能写作助手",
-      "logo": "static/icons/claude.ai.ico"
+      "logo": "static/icons/claude.ai.png"
     }]
     },{
   "_id": "guonei",
@@ -124,7 +129,7 @@
       "name": "斗鱼直播",
       "href": "https://www.douyu.com/",
       "desc": "中国领先的游戏直播平台",
-      "logo": "static/icons/douyu.com.ico"
+      "logo": "static/icons/douyu.png"
     },
     {
       "name": "什么值得买",
@@ -136,7 +141,7 @@
       "name": "汽车之家",
       "href": "https://www.autohome.com.cn/",
       "desc": "中国领先的汽车资讯网站",
-      "logo": "static/icons/autohome.com.cn.ico"
+      "logo": "static/icons/qc.jfif"
     },
     {
       "name": "今日头条",
@@ -148,59 +153,19 @@
       "name": "下歌吧",
       "href": "https://xiageba.com/",
       "desc": "音乐免费下载网站",
-      "logo": "static/icons/xiage8.com.ico"
+      "logo": "static/icons/xgb.png"
     },
     {
       "name": "优酷视频",
       "href": "https://www.youku.com/",
       "desc": "中国领先的视频媒体平台",
-      "logo": "static/icons/youku.com.ico"
+      "logo": "static/icons/youku.png"
     }]
 },{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "cloudflare",
-		"href": "https://dash.cloudflare.com/",
-		"desc": "域名托管网站",
-		"logo": "static/icons/52pojie.cn.ico"
-	}, {
-		"name": "IT之家",
-		"href": "https://www.ithome.com/",
-		"desc": "全球最大的中文IT门户网站",
-		"logo": "static/icons/ithome.com.ico"
-	}, {
-		"name": "腾讯视频",
-		"href": "https://v.qq.com/",
-		"desc": "腾讯旗下在线视频媒体平台",
-		"logo": "static/icons/v.qq.com.ico"
-	}, {
-		"name": "西瓜视频",
-		"href": "https://www.xigua.com/",
-		"desc": "字节跳动旗下在线视频媒体平台",
-		"logo": "static/icons/xigua.com.ico"
-	}, {
-		"name": "抖音",
-		"href": "https://www.douyin.com/",
-		"desc": "字节跳动旗下的短视频分享平台",
-		"logo": "static/icons/douyin.com.ico"
-	}, {
-		"name": "汽车之家",
-		"href": "https://www.autohome.com.cn/",
-		"desc": "中国领先的汽车主题垂直网站",
-		"logo": "static/icons/autohome.com.cn.ico"
-	}, {
-		"name": "百度贴吧",
-		"href": "https://tieba.baidu.com/",
-		"desc": "百度旗下的全球最大中文社区",
-		"logo": "static/icons/tieba.baidu.com.ico"
-	}, {
-		"name": "虎牙直播",
-		"href": "https://www.huya.com/",
-		"desc": "中国领先的游戏直播平台",
-		"logo": "static/icons/huya.com.ico"
-	}, {
 		"name": "Namesilo",
 		"href": "https://www.namesilo.com/",
 		"desc": "域名托管网站",
